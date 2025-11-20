@@ -98,9 +98,21 @@ EasyOCR
 📸 Screenshots
 ⭐ Example 1 — Printed Receipt (Clean)
 
+- Top Left: Original image
+
+- Top Right: Preprocessed image used for OCR
+
+- Bottom Right: OCR output with text + bounding boxes
+
 ![Example 1](https://raw.githubusercontent.com/leilabahman/Receipt-OCR-App/main/results/receipt1.png)
 
 ⭐ Example 2 — Real-World Long Receipt (Complex)
+
+- Top Left: Original image
+
+- Top Right: Preprocessed image used for OCR
+
+- Bottom Right: OCR output with text + bounding boxes
 
 ![Example 2](https://raw.githubusercontent.com/leilabahman/Receipt-OCR-App/main/results/receipt2.png)
 
