@@ -86,14 +86,7 @@ python src/gui_app.py
 
 The preprocessing stage dramatically improves OCR performance:
 
-Input Image →
-Grayscale →
-CLAHE →
-Deskew →
-Gaussian Blur →
-Resize →
-3-Channel Conversion →
-EasyOCR
+Input Image → Grayscale → CLAHE → Deskew → Gaussian Blur → Resize → 3-Channel Conversion → EasyOCR
 
 📸 Screenshots
 ⭐ Example 1 — Printed Receipt (Clean)
@@ -153,12 +146,6 @@ PyTorch (backend for EasyOCR)
 🚧 Future Improvements
 
 Table / line-item extraction
-
-Automatic total / date detection via regex
-
-Confidence thresholding
-
-Web deployment (HuggingFace Spaces)
 
 Handwritten OCR support (TrOCR)
 
