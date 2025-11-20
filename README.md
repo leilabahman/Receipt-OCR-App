@@ -98,12 +98,11 @@ EasyOCR
 📸 Screenshots
 ⭐ Example 1 — Printed Receipt (Clean)
 
-
-
-results/receipt1.png
+![Example 1](https://raw.githubusercontent.com/leilabahman/Receipt-OCR-App/main/results/receipt1.png)
 
 ⭐ Example 2 — Real-World Long Receipt (Complex)
 
+![Example 2](https://raw.githubusercontent.com/leilabahman/Receipt-OCR-App/main/results/receipt2.png)
 
 
 results/receipt2.png
@@ -154,4 +153,5 @@ Handwritten OCR support (TrOCR)
 👩‍💻 Author
 
 Leila Bahman
+
 Machine Vision & AI Specialist
